@@ -7,8 +7,6 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -18,7 +16,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto-Link" src=".github/capa.png.png" width="100%">
+  <img alt="projeto-Link" src=".github/capa.png.png" width="70%">
 </p>
 
 ## 🚀 Tecnologias
